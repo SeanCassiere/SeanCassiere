@@ -1,16 +1,18 @@
-### Hi there 👋
+# Sean Cassiere
+- 📫 Reach me: 
+- [twitter.com/SeanCassiere](https://twitter.com/SeanCassiere)
+- [linkedin.com/in/sakshigupta06](https://www.linkedin.com/in/seancassiere/)
 
-<!--
-**SeanCassiere/SeanCassiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hii👋, 
+I'm Sean Cassiere, Placement year undergraduate student. I am passionate about technologies and open source. I am a Python & PHP Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Mobile Development
+- 💬 Hobbies : Reading Fanfiction, Rainbow Six: Siege Gamer
+-  ⚡ Languages: Python, PHP
+
+
+---
+
+⭐️ From [Sean Cassiere](http://www.github.com/SeanCassiere)
