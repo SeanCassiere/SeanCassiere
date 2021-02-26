@@ -8,7 +8,7 @@ I'm Sean Cassiere, Placement year undergraduate student. I am passionate about t
 
 
 - 🔭 I’m currently working on React Web Application Development
-- 🌱 I’m currently learning Mobile Development
+- 🌱 I’m currently learning React Native Mobile Application Development
 - 💬 Hobbies : Rainbow Six Siege Gamer
 - ⚡ Coding: CSS, PHP, JavaScript, React
 
