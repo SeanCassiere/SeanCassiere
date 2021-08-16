@@ -4,13 +4,13 @@
 - [linkedin.com/in/seancassiere/](https://www.linkedin.com/in/seancassiere/)
 
 ## Hii👋, 
-I'm Sean Cassiere, Placement year undergraduate student. I am passionate about technologies and open source. I like front-end development, and slowly learning React and hopefully soon React Native.
+I'm Sean Cassiere, a Final Year undergraduate student. I am passionate about technologies and open source. I have gotten into developing in TypeScript, and I simply cannot go back 😜.
 
 
-- 🔭 I’m currently working on React Web Application Development
-- 🌱 I’m currently learning React Native Mobile Application Development
-- 💬 Hobbies : Rainbow Six Siege Gamer
-- ⚡ Coding: CSS, PHP, JavaScript, React
+- 🔭 I’m currently working on my Final Year of the Degree Programme.
+- 🌱 I’m currently learning best practices for frontend and backend development with a sprinkling of TypeScript.
+- 💬 Hobbies : Not long walks on the beach... actually no walking at all.
+- ⚡ Coding: TypeScript, Node, React, React Native, Tailwind
 
 
 ---
