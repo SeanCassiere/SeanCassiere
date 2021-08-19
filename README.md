@@ -2,17 +2,17 @@
 # Hi, I'm Sean! 👋🏼
 
 ```javascript
-import { JavaScript , TypeScript, HTML, CSS } from '@Sean/code'
-import { Node, React, React Native, Redux, Tailwind } from '@Sean/tools'
+import { JavaScript, TypeScript, HTML, CSS } from '@Sean/code';
+import { Node, React, React Native, Redux, Tailwind } from '@Sean/tools';
 
 const AboutMe = {
-    name: "Sean Cassiere"
-    pronouns: ["Programmer", "He", "Overworked"]
-    code: [JavaScript , TypeScript, HTML, CSS]
+    name: "Sean Cassiere",
+    pronouns: ["Programmer", "He", "Overworked"],
+    code: [JavaScript , TypeScript, HTML, CSS],
     tools: [Node, React, React Native, Redux, Tailwind]
-}
+};
 
-console.log(AboutMe)
+console.log(AboutMe);
 
 // Do yourself a favour and don't actually try to run this snippet 😜
 ```
