@@ -24,7 +24,7 @@ I'm passionate about open-source and web-technologies.
 
 Currently, I am in the Final Year of a Undergraduate Degree Programme in Business Information Systems.
 
-![snake gif](https://github.com/SeanCassiere/SeanCassiere/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/SeanCassiere/SeanCassiere/blob/output/github-contribution-grid-snake.svg)
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancassiere/)
