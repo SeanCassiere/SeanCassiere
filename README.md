@@ -2,14 +2,16 @@
 # Hi, I'm Sean! 👋🏼
 
 ```javascript
-import { JavaScript, TypeScript, HTML, CSS } from '@Sean/code';
-import { Node, React, React Native, Redux, Tailwind } from '@Sean/tools';
+import { JavaScript, TypeScript } from '@Sean/langauges';
+import { React, NextJS, TailwindCSS, MUI, Redux } from '@Sean/frontend';
+import { Microservices, Docker, Node, tRPC, GraphQL, REST } from '@Sean/backend';
 
 const AboutMe = {
     name: "Sean Cassiere",
-    pronouns: ["Programmer", "He", "Overworked"],
-    code: [JavaScript , TypeScript, HTML, CSS],
-    tools: [Node, React, React Native, Redux, Tailwind]
+    pronouns: new Set([ "Programmer", "He", "Overworked" ]),
+    languages: new Set([ JavaScript , TypeScript ]),
+    frontend: new Set([ React, NextJS, TailwindCSS, MUI, Redux ]),
+    backend: new Set([ Microservices, Docker, Node, tRPC, GraphQL, REST ])
 };
 
 console.log(AboutMe);
@@ -18,17 +20,13 @@ console.log(AboutMe);
 ```
 
 ## 🚀 About Me
-I am a novice full-stack developer from Sri Lanka 🇱🇰 , who is hooked-on working with React and Node in TypeScript.
+I am a novice full-stack developer from Sri Lanka 🇱🇰 , and I'm hooked-on working with React and Node in TypeScript. I'm also passionate about open-source and web-technologies in general.
 
-I'm passionate about open-source and web-technologies.
-
-Currently, I am in the Final Year of a Undergraduate Degree Programme in Business Information Systems.
-
-![snake svg](https://github.com/SeanCassiere/SeanCassiere/blob/output/github-contribution-grid-snake.svg)
+I've just finished my final year of an Undergraduate Degree Programme in Business Information Systems, and now looking forward to new opportunities.
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancassiere/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/SeanCassiere)
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sean.cassiere)
-
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCHZrKdmBnZEalEO-6uUY7w)
   
