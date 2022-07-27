@@ -8,7 +8,7 @@ import { Microservices, Docker, Node, tRPC, GraphQL, REST } from '@Sean/backend'
 
 const AboutMe = {
     name: "Sean Cassiere",
-    pronouns: new Set([ "Programmer", "He", "Overworked" ]),
+    describe: new Set([ "Business Analyst", "Programmer", "Overworked" ]),
     languages: new Set([ JavaScript , TypeScript ]),
     frontend: new Set([ React, NextJS, TailwindCSS, MUI, Redux ]),
     backend: new Set([ Microservices, Docker, Node, tRPC, GraphQL, REST ])
@@ -29,4 +29,3 @@ I've just finished my final year of an Undergraduate Degree Programme in Busines
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/SeanCassiere)
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sean.cassiere)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCHZrKdmBnZEalEO-6uUY7w)
-  
