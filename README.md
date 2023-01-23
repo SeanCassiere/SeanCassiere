@@ -1,7 +1,7 @@
 
 # Hi, I'm Sean! <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="45" width="45" align="center" />
 
-```javascript
+```js
 import { JavaScript, TypeScript } from '@Sean/langauges';
 import { React, NextJS, Tailwind, MUI, Redux } from '@Sean/frontend';
 import { Microservices, Docker, Node, tRPC, GraphQL, REST } from '@Sean/backend';
@@ -20,7 +20,7 @@ console.log(AboutMe);
 ```
 
 ## <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/cowboy-hat-face.gif" height="30" width="30" align="center" /> About Me
-I am a novice full-stack developer from Sri Lanka 🇱🇰 , and I'm hooked-on working with React and Node in TypeScript. I'm also passionate about open-source and web-technologies in general.
+I am a novice full-stack developer living in New Zealand 🇳🇿 (formerly from Sri Lanka 🇱🇰) , and I'm hooked-on working with React and Node in TypeScript. I'm also passionate about open-source and web-technologies in general.
 
 I've just finished my final year of an Undergraduate Degree Programme in Business Information Systems, and now looking forward to new opportunities.
   
