@@ -1,3 +1,5 @@
+### > whoami
+
 ### Hi, I'm Sean! <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="25" width="25" align="center" />
 
 #### Hobbyist software engineer
