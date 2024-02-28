@@ -13,7 +13,7 @@
 #### Tech that hypes me up
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
-  <a href="https://www.tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="48" height="48" alt="Tanstack" /></a>
+  <a href="https://tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="48" height="48" alt="Tanstack" /></a>
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
 </div>
 
