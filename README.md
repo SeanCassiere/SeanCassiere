@@ -2,9 +2,9 @@
 
 ### Hi, I'm Sean! <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="25" width="25" align="center" />
 
-#### Hobbyist software engineer
+#### Hobbyist *software-developer-guy?*
 
-* 👨‍💻 Super interested in the development of fullstack web apps and everything bleeding-edge in the space.
+* 👨‍💻 Super interested in the development of full-stack web apps and everything bleeding-edge in the space.
 * 🤝 Huge advocate of Open-Source and a maintainer of [Tanstack Router](https://github.com/Tanstack/Router).
 * 🌏 Based in New Zealand 🇳🇿 (formerly from Sri Lanka 🇱🇰).
 * 📖 Pursuing my Masters @ [Southern Institute of Technology](https://www.sit.ac.nz).
