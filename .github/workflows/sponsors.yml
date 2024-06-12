@@ -15,7 +15,6 @@ jobs:
         with:
           token: ${{ secrets.SPONSOR_README_TOKEN }}
           file: 'README.md'
-          marker: <!-- sponsors --> <!-- sponsors -->
           minimum: 25
 
       # - name: Deploy to GitHub Pages 🚀
