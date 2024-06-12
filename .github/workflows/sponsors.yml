@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.SPONSOR_README_TOKEN }}
           file: 'README.md'
           minimum: 25
+          active-only: true
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
