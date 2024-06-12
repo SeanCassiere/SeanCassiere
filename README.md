@@ -28,4 +28,4 @@
 
 A big thank you to my sponsors who make it possible for me to focus on OSS.
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --> <!-- sponsors -->
