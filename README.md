@@ -28,4 +28,4 @@
 
 A big thank you to my sponsors who make it possible for me to focus on OSS.
 
-<!-- sponsors --><a href="https://github.com/tannerlinsley"><img src="https://github.com/tannerlinsley.png" width="60px" alt="Tanner Linsley" /></a><a href="https://github.com/ruiaraujo012"><img src="https://github.com/ruiaraujo012.png" width="60px" alt="Rui Araújo" /></a><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/tannerlinsley"><img src="https://github.com/tannerlinsley.png" width="60px" alt="Tanner Linsley" /></a><a href="https://github.com/ruiaraujo012"><img src="https://github.com/ruiaraujo012.png" width="60px" alt="Rui Araújo" /></a><a href="https://github.com/lancej1022"><img src="https://github.com/lancej1022.png" width="60px" alt="Lance Jeffers" /></a><!-- sponsors -->
