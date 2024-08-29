@@ -5,7 +5,7 @@
 #### Hobbyist *software-developer-guy?*
 
 * 👨‍💻 Super interested in the development of full-stack web apps and everything bleeding-edge in the space.
-* 🤝 Huge advocate of Open-Source and a maintainer of [Tanstack Router](https://github.com/Tanstack/Router).
+* 🤝 Huge fan of open source software and a maintainer of [Tanstack Router](https://github.com/Tanstack/Router).
 * 🌏 Based in New Zealand 🇳🇿 (formerly from Sri Lanka 🇱🇰).
 * 📖 Pursuing my Masters @ [Southern Institute of Technology](https://www.sit.ac.nz).
 * 👨🏼‍🏫 Big advocate of the [T3 Axioms](https://github.com/t3-oss/create-t3-app#t3-axioms).
