@@ -12,7 +12,7 @@
 
 #### Tech that hypes me up
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
   <a href="https://tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="48" height="48" alt="Tanstack Router" /></a>
   <a href="https://ui.shadcn.com"><img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="48" height="48" alt="Shadcn UI" /></a>
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
@@ -26,4 +26,10 @@ You can find me on X / Twitter - [@SeanCassiere](https://x.com/SeanCassiere)
 
 A big thank you to my sponsors who make it possible for me to focus on OSS.
 
-<!-- sponsors --><a href="https://github.com/tannerlinsley"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;5580297?u&#x3D;698226e4ff99a96ceb9e8d78eb797733b6aaf03b&amp;v&#x3D;4" width="60px" alt="Tanner Linsley" /></a><a href="https://github.com/ruiaraujo012"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;16304685?u&#x3D;021ecf85f228857841456507ac996b10b06edf5d&amp;v&#x3D;4" width="60px" alt="Rui Araújo" /></a><a href="https://github.com/thomasballinger"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;458879?u&#x3D;4b045ac75d721b6ac2b42a74d7d37f61f0414031&amp;v&#x3D;4" width="60px" alt="Tom Ballinger" /></a><!-- sponsors -->
+<div style="display: flex; flex-wrap: wrap;">
+<!-- sponsors -->
+  <a href="https://github.com/tannerlinsley"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;5580297?u&#x3D;698226e4ff99a96ceb9e8d78eb797733b6aaf03b&amp;v&#x3D;4" width="60px" alt="Tanner Linsley" /></a>
+  <a href="https://github.com/ruiaraujo012"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;16304685?u&#x3D;021ecf85f228857841456507ac996b10b06edf5d&amp;v&#x3D;4" width="60px" alt="Rui Araújo" /></a>
+  <a href="https://github.com/thomasballinger"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;458879?u&#x3D;4b045ac75d721b6ac2b42a74d7d37f61f0414031&amp;v&#x3D;4" width="60px" alt="Tom Ballinger" /></a>
+<!-- sponsors -->
+</div>
