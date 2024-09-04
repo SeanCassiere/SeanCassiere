@@ -20,7 +20,7 @@
 
 #### Want to reach out?
 
-You can find me on X / Twitter - [@SeanCassiere][https://x.com/SeanCassiere]
+You can find me on X / Twitter - [@SeanCassiere](https://x.com/SeanCassiere)
 
 #### Thank you to my sponsors ❤️
 
