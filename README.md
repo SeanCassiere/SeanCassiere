@@ -13,9 +13,9 @@
 #### Tech that hypes me up
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="48" height="48" alt="Tanstack Router" /></a>
-  <a href="https://ui.shadcn.com"><img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="48" height="48" alt="Shadcn UI" /></a>
-  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
+  <a href="https://tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="50" height="50" alt="Tanstack Router" /></a>
+  <a href="https://ui.shadcn.com"><img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="50" height="50" alt="Shadcn UI" /></a>
+  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" /></a>
 </div>
 
 #### Want to reach out?
@@ -27,5 +27,5 @@ You can find me on X / Twitter - [@SeanCassiere](https://x.com/SeanCassiere)
 A big thank you to my sponsors who make it possible for me to focus on OSS.
 
 <div style="display: flex; flex-wrap: wrap;">
-<!-- sponsors --><a href="https://github.com/tannerlinsley"><img src="https://github.com/tannerlinsley.png" width="50px" alt="tannerlinsley" /></a>&nbsp;<a href="https://github.com/ruiaraujo012"><img src="https://github.com/ruiaraujo012.png" width="50px" alt="ruiaraujo012" /></a>&nbsp;<a href="https://github.com/thomasballinger"><img src="https://github.com/thomasballinger.png" width="50px" alt="thomasballinger" /></a>&nbsp;<!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/tannerlinsley"><img src="https://github.com/tannerlinsley.png" width="50" height="50" alt="tannerlinsley" /></a>&nbsp;<a href="https://github.com/ruiaraujo012"><img src="https://github.com/ruiaraujo012.png" width="50px" alt="ruiaraujo012" /></a>&nbsp;<a href="https://github.com/thomasballinger"><img src="https://github.com/thomasballinger.png" width="50px" alt="thomasballinger" /></a>&nbsp;<!-- sponsors -->
 </div>
