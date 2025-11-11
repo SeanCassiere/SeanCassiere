@@ -6,7 +6,7 @@
 
 * 👨‍💻 Super interested in the development of full-stack web apps and everything bleeding-edge in the space.
 * 🤝 Huge fan of open source software and a maintainer of [Tanstack Router (and Start)](https://github.com/Tanstack/Router).
-* 💼 Open to work! If you're building something cool, I'd love to hear about it.
+* 💼 Software Engineer [Nozzle.io](https://nozzle.io) ([github/nozzle](https://github.com/nozzle) | ([twitter/nozzleio](https://x.com/nozzleio)).
 * 🌏 Based in New Zealand 🇳🇿 (formerly from Sri Lanka 🇱🇰).
 * 📖 Completed my Masters in IT @ [Southern Institute of Technology](https://www.sit.ac.nz).
 * 👨🏼‍🏫 Big advocate of the [T3 Axioms](https://github.com/t3-oss/create-t3-app#t3-axioms).
