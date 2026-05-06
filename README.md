@@ -14,9 +14,9 @@
 #### Tech that hypes me up
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="50" height="50" alt="Tanstack Router" /></a>
-  <a href="https://ui.shadcn.com"><img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="50" height="50" alt="Shadcn UI" /></a>
-  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" /></a>
+  <a href="https://tanstack.com/router"><img src="https://avatars.githubusercontent.com/u/72518640?&v=4" width="50" alt="Tanstack Router" /></a>
+  <a href="https://ui.shadcn.com"><img src="https://avatars.githubusercontent.com/u/139895814?8&v=4" width="50" alt="Shadcn UI" /></a>
+  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" alt="TailwindCSS" /></a>
 </div>
 
 #### Want to reach out?
