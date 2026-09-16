@@ -4,10 +4,10 @@
 
 #### web-dev-guy, but with a suspicious amount of opinions about routing.
 
-* 👨‍💻 I build full-stack web apps, and maybe spend far too much time thinking about routing, DX, type-safety, and modern frontend tooling.
-* 🤝 Huge fan of open source software and a maintainer of [TanStack Router and TanStack Start](https://github.com/TanStack/router).
+* 👨‍💻 obsessed about routing, DX, type-safety, and modern frontend tooling.
 * 💼 Software Engineer @ [Nozzle.io](https://nozzle.io) ([GitHub](https://github.com/nozzle) | [X](https://x.com/nozzleio)).
-* 🛠️ Mostly working with TypeScript, React, Node.js, TanStack, Tailwind CSS, and the modern web platform.
+* 🤝 Maintainer of [TanStack Router and TanStack Start](https://github.com/TanStack/router) and a HUGE fan of open source software.
+* 🛠️ Mostly working with TypeScript, React, Node, TanStack, and a splattering of other the modern web technologies.
 * 🌏 Based in New Zealand 🇳🇿, formerly from Sri Lanka 🇱🇰.
 * 📖 Completed my Master of Information Technology @ [Southern Institute of Technology](https://www.sit.ac.nz).
 * 👨🏼‍🏫 Big advocate of the [T3 Axioms](https://github.com/t3-oss/create-t3-app#t3-axioms).
