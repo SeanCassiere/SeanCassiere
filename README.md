@@ -6,7 +6,7 @@
 
 * 👨‍💻 obsessed about routing, DX, type-safety, and modern frontend tooling.
 * 💼 Software Engineer @ [Nozzle.io](https://nozzle.io) ([GitHub](https://github.com/nozzle) | [X](https://x.com/nozzleio)).
-* 🤝 Maintainer of [TanStack Router and TanStack Start](https://github.com/TanStack/router) and a HUGE fan of open source software.
+* 🤝 Maintainer of [TanStack Router/Start](https://github.com/TanStack/router) and [Nozzle Mosaic Adapters](https://github.com/nozzle/mosaic-adapters) + a HUGE fan of open source software.
 * 🛠️ Mostly working with TypeScript, React, Node, TanStack, and a splattering of other the modern web technologies.
 * 🌏 Based in New Zealand 🇳🇿, formerly from Sri Lanka 🇱🇰.
 * 📖 Completed my Master of Information Technology @ [Southern Institute of Technology](https://www.sit.ac.nz).
